@@ -734,7 +734,8 @@ img {
   margin-bottom: 16px;
   color: var(--navy-blue-color);
 }
-.modal-form {
+.modal-form-wrapper {
+  margin-bottom: 8px;
 }
 .modal-label {
   position: relative;
