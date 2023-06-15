@@ -543,7 +543,7 @@ img {
   background-color: var(--green-color);
 }
 .form-footer-icon {
-  margin-right: 24px;
+  margin-left: 16px;
 }
 
 /**
@@ -735,7 +735,6 @@ img {
   color: var(--navy-blue-color);
 }
 .modal-form {
-  margin-bottom: 8px;
 }
 .modal-label {
   position: relative;
