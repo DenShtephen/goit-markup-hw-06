@@ -680,7 +680,7 @@ img {
   position: absolute;
   top: 50%;
   left: 50%;
-  padding: 24px;
+  padding: 72px 24px 24px 24px;
 
   width: 408px;
   min-height: 584px;
@@ -725,7 +725,6 @@ img {
 .modal-title {
   display: block;
   text-align: center;
-  margin-top: 48px;
 
   font-weight: 500;
   font-size: 16px;
@@ -733,13 +732,14 @@ img {
   letter-spacing: 0.02em;
 
   margin-bottom: 16px;
+  color: var(--navy-blue-color);
 }
 .modal-form {
+  margin-bottom: 8px;
 }
 .modal-label {
   position: relative;
   display: block;
-  margin-bottom: 8px;
 }
 .modal-form-tag {
   display: block;
